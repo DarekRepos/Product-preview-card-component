@@ -1,0 +1,19 @@
+{
+  "name": "product-preview-card-component",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": "https://DarekRepos.github.io/Product-preview-card-component/",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "sass": "^1.74.1",
+    "vite": "^5.2.0"
+  }
+}
