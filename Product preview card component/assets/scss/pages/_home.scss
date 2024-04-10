@@ -1,0 +1,19 @@
+@use '../utils' as u;
+@use '../mixin' as r;
+
+// Set box model to border-box.
+// Based on css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
+
+main {
+    // isolation: isolate;
+    width: min(u.rem(600), calc(100% - u.rem(32)));
+    margin: auto;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Montserrat', serif;
+}
