@@ -10,7 +10,6 @@
 
     @include r.media-up('sm') {
         grid-template-columns: 1fr 1fr;
-        max-height: 450px;
     }
 
     &__picture {
