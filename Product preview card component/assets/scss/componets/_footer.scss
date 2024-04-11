@@ -9,7 +9,7 @@
     block-size: 2rem;
     display: grid;
     place-items: center;
-    font-size: var(--f-s);
+    font-size: var(--f-xs);
     &__link {
       color: var(--c-primary-dark-cyan);
       text-decoration: none;
@@ -18,6 +18,6 @@
       }
     }
     @include r.media-up('sm') {
-        font-size: var(--f-l);
+        font-size: var(--f-s);
     }
 }
