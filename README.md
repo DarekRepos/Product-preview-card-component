@@ -36,7 +36,7 @@ mobile view
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-Gh0O113ZCe)
 - Live Site URL: [live site URL here](https://portfolio.darekduda.pl/Product-preview-card-component/)
 
 ## My process
