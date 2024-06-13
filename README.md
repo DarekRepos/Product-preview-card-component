@@ -13,6 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+  - [How to Use](#how-to-use) 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -71,6 +72,29 @@ I want learn more on  Forms and Validations and create solution from figma file.
 ### Continued development
 
 
+I'd be glad to craft a response combining the strengths of Response A and Response B, addressing their shortcomings, and incorporating insights from the ratings:
+
+## How to Use
+
+This section provides guidance on setting up and utilizing the code for the product preview card component. Here's a suggested structure:
+
+### Installation
+
+Clone or download the repository.
+Install necessary dependencies (if any):
+
+```Bash
+cd 'Product preview card component'
+npm install  # or yarn install
+```
+
+### Start a development server:
+```Bash
+
+npm start dev
+```
+
+The application will typically be accessible at http://localhost:5174/Product-preview-card-component/ in your web browser.
 
 ## Author
 
